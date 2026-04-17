@@ -1,0 +1,13 @@
+{
+  "name": "qa-smoke-report-kit",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "smoke": "node smoke-check.mjs",
+    "check": "node smoke-check.mjs https://example.com --dry-run"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
