@@ -44,3 +44,11 @@ See `sample-report.md` for the expected handoff format.
 This is a smoke/audit helper, not a replacement for a full test suite. It is
 useful for first-pass website QA, pre-launch checks, debugging intake, and
 agency overflow work where the goal is to find actionable issues quickly.
+
+## OIMRQS Ops Context
+
+This repo is part of the OIMRQS Ops public proof shelf: focused programming and technical-ops work across web, internal tools, automations, data cleanup, dashboards, APIs, webhooks, QA and handoff.
+
+- Site: https://oimrqs-ops.x9kqz.uk/
+- Portfolio: https://oimrqs-ops.x9kqz.uk/portfolio/
+- Proof library: https://oimrqs-ops.x9kqz.uk/proof/
